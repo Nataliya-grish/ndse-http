@@ -4,6 +4,6 @@ module.exports = {
     : "1386f99e260277d4cd1ae921cef0984d",
   url: process.env.pageURL
     ? process.env.pageURL
-    : "http://api.weatherstack.com/current",
+    : "http://api.weatherstack.com/current?",
   region: "Moscow"
 };
